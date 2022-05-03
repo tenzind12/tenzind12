@@ -8,4 +8,5 @@
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tenzin)](https://github.com/tenzin/github-readme-stats) -->
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tenzin&layout=compact&theme=merko" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tenzin&layout=compact&theme=merko" /> -->
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@tenzin/ac33b0b5-819b-4104-a6c8-06b6fbf4a9ed.png" widht="100" height="370" /></a>
