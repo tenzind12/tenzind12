@@ -7,3 +7,5 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenzind12&hide=blade,html,css,scss,hack&layout=compact)](https://github.com/tenzind12/github-readme-stats) -->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tenzin)](https://github.com/tenzin/github-readme-stats) -->
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tenzin&layout=compact&theme=merko" /> -->
