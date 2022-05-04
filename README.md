@@ -8,4 +8,4 @@
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tenzin)](https://github.com/tenzin/github-readme-stats) -->
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tenzin&layout=compact&theme=merko" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tenzin&layout=compact&theme=merko" alt="wakatime stats"/> -->
