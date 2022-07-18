@@ -4,7 +4,7 @@
 ![Tenzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenzind12&show_icons=true&theme=blue-green)
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenzind12&hide=blade,html,css,scss,hack&layout=compact)](https://github.com/tenzind12/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenzind12&hide=blade,hack&layout=compact&theme=blue-green)](https://github.com/tenzind12/github-readme-stats)
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tenzin)](https://github.com/tenzin/github-readme-stats) -->
 
