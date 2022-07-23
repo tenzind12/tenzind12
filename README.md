@@ -8,5 +8,5 @@
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tenzin)](https://github.com/tenzin/github-readme-stats) -->
 
-<i>Count started from June 2022: </i><br/>
+<i>Timer since June 2022: </i><br/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tenzin&layout=compact&theme=merko" alt="wakatime stats"/>
