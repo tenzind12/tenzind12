@@ -9,5 +9,5 @@
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tenzin)](https://github.com/tenzin/github-readme-stats) -->
 
 
-<i>Wakatime since June 2022: </i><br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tenzin&layout=compact&theme=merko" alt="wakatime stats"/>
+<!-- <i>Wakatime since June 2022: </i><br/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tenzin&layout=compact&theme=merko" alt="wakatime stats"/> -->
