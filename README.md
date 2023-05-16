@@ -11,6 +11,6 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=tenzind12&icon=0&color=3)](https://visitcount.itsvg.in) -->
 
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tenzin&layout=compact&theme=merko" alt="wakatime stats"/> -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tenzin&layout=compact&theme=merko" alt="wakatime stats"/>
 <!-- replace x.x.x with actual version -->
 
